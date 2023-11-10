@@ -9,7 +9,7 @@ import json
 import os
 
 README = """
-Hello world 👋  
+Hello world! 👋  
 My name is David and I'm a Software Engineer.  
 Over here you'll find some side projects I work on from time to time.
 

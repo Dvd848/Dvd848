@@ -23,6 +23,20 @@
             "align_image": "top"
         },
         {
+            "id": "bonus-board-state-editor",
+            "title": "Bonus Board State Editor",
+            "description": "Cheat in Bonus (Scrabble™ game for DOS) by modifying the board state",
+            "image": "https://github.com/Dvd848/bonus-board-state-editor/raw/main/docs/game1.png",
+            "align_image": "center"
+        },
+        {
+            "id": "cryptic-crossword",
+            "title": "Cryptic Crossword",
+            "description": "An interactive web interface for a weekly cryptic crossword",
+            "image": "https://github.com/Dvd848/cryptic-crossword/raw/main/screenshots/img1.png",
+            "align_image": "top"
+        },
+        {
             "id": "Crossword-Solver",
             "title": "Crossword Solver",
             "description": "A utility to help identify missing words in crossword puzzles based on existing letters",
@@ -70,13 +84,6 @@
             "description": "A Basic UI to view and edit a selected subset of the Windows Registry",
             "image": "https://github.com/Dvd848/RgEdt/raw/master/docs/images/main_window.png",
             "align_image": "top"
-        },
-        {
-            "id": "bonus-board-state-editor",
-            "title": "Bonus Board State Editor",
-            "description": "Cheat in Bonus (Scrabble™ game for DOS) by modifying the board state",
-            "image": "https://github.com/Dvd848/bonus-board-state-editor/raw/main/docs/game1.png",
-            "align_image": "center"
-        }
+        }        
     ]
 }

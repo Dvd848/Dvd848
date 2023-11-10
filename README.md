@@ -1,5 +1,5 @@
 
-Hello world 👋  
+Hello world! 👋  
 My name is David and I'm a Software Engineer.  
 Over here you'll find some side projects I work on from time to time.
 
@@ -15,6 +15,14 @@ Over here you'll find some side projects I work on from time to time.
 
 <a href="https://www.github.com/Dvd848/hTXT-Viewer">
     <img src="images/hTXT-Viewer.svg" alt="hTXT Viewer" align="left" />
+</a>
+
+<a href="https://www.github.com/Dvd848/bonus-board-state-editor">
+    <img src="images/bonus-board-state-editor.svg" alt="Bonus Board State Editor" align="left" />
+</a>
+
+<a href="https://www.github.com/Dvd848/cryptic-crossword">
+    <img src="images/cryptic-crossword.svg" alt="Cryptic Crossword" align="left" />
 </a>
 
 <a href="https://www.github.com/Dvd848/Crossword-Solver">
@@ -43,9 +51,5 @@ Over here you'll find some side projects I work on from time to time.
 
 <a href="https://www.github.com/Dvd848/RgEdt">
     <img src="images/RgEdt.svg" alt="RgEdt" align="left" />
-</a>
-
-<a href="https://www.github.com/Dvd848/bonus-board-state-editor">
-    <img src="images/bonus-board-state-editor.svg" alt="Bonus Board State Editor" align="left" />
 </a>
 
